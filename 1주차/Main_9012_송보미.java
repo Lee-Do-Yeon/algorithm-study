@@ -20,9 +20,11 @@ public class Main_9012_송보미 {
 				}
 				else if (data.length() == 0) {
 					System.out.println("YES");
+					break;
 				}else {
 					System.out.println("NO");
 					answer = false;
+					break;
 				}
 				
 			}
