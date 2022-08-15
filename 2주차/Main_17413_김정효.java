@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 /**
- * BOJ 17413 문자열 뒤집기2
+ * BOJ 17413 문자열 뒤집기 2
  * stack 사용
  * @author kjh
  *
@@ -54,5 +54,4 @@ public class Main_17413_김정효 {
 		}
 		System.out.println(sb);
 	}
-
 }
