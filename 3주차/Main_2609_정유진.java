@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main_정유진_2609 {
+public class Main_2609_정유진 {
 	 
 	public static void main(String[] args) {
  
