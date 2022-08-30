@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * BOJ 1463 1로 만들기  (완성)
- * DF로도 풀이 가능
+ * DP로도 풀이 가능
  * @author kjh
  *
  */
